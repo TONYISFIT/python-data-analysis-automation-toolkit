@@ -1,0 +1,1 @@
+{"dtypes":{"amount":"float64","order_id":"int64","quantity":"int64"},"max_null_ratio":0.0,"no_duplicates":true,"not_null":["order_id","customer_name","amount"],"ranges":{"amount":{"max":100000,"min":0},"quantity":{"max":100,"min":1}},"unique":["order_id"]}

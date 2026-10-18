@@ -1,0 +1,17 @@
+# SYNTHETIC DATA — generated for demonstration purposes only. Any resemblance to
+# real persons, orders, or businesses is coincidental.
+# This file intentionally contains data-quality issues (nulls, duplicate keys,
+# out-of-range values, duplicated rows) so the toolkit demo shows real findings.
+order_id,customer_name,customer_email,product,quantity,amount,order_date
+1001,Aarav Sharma,aarav@example.com,Wireless Mouse,2,1499.00,2026-09-01
+1002,Diya Patel,diya@example.com,Keyboard,1,2499.00,2026-09-02
+1003,Kabir Singh,,Monitor,1,12999.00,2026-09-03
+1004,Ananya Iyer,ananya@example.com,Wireless Mouse,2,1499.00,2026-09-04
+1005,Vivaan Rao,vivaan@example.com,Headphones,1,-499.00,2026-09-05
+1006,Ishaan Verma,ishaan@example.com,Keyboard,3,7497.00,2026-09-06
+1002,Diya Patel,diya@example.com,Keyboard,1,2499.00,2026-09-02
+1008,Myra Nair,myra@example.com,Monitor,1,12999.00,2026-09-08
+1009,Arjun Mehta,,Webcam,1,3499.00,2026-09-09
+1010,Sara Khan,sara@example.com,Headphones,2,6998.00,2026-09-10
+1002,Diya Patel,diya@example.com,Keyboard,1,2499.00,2026-09-02
+1012,Aditya Rao,aditya@example.com,USB Cable,5,1245.00,2026-09-12
